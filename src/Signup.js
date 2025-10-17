@@ -13,6 +13,8 @@ function Signup() {
     <div className="auth-bg" style={{ backgroundImage: `url(${bgImage})` }}>
       <div className="overlay" />
 
+      
+
       {/* Header */}
       <div className="header-wrapper">
         <SeamsHeader />
